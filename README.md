@@ -1,5 +1,6 @@
-![son-goku-dragon-ball-dragon-ball-super-dragon-ball-super-movie-wallpaper-preview](https://user-images.githubusercontent.com/94299118/203818595-1b2af8f7-ba63-49ca-9e93-729e571f2933.jpg)
-
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)" width="600" height="300"/>
+</div>
 
 ## My name is Vadim
 ### I am studying Machine Learning and Web development
