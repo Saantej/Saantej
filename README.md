@@ -1,5 +1,4 @@
 <img src ="./son-goku-dr![son-goku-dragon-ball-dragon-ball-super-dragon-ball-super-movie-wallpaper-preview](https://user-images.githubusercontent.com/94299118/203818323-c1b138a3-fb57-4515-a2d2-e6d8704953a4.jpg)
-agon-ball-dragon-ball-super-dragon-ball-super-movie-wallpaper-preview.jpg">
 
 ## My name is Vadim
 ### My Tech Stack
