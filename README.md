@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="500" height ="400"/>
 </div>
----
 
-## My name is Vadim
+##                                               My name is Vadim
 ### 💻: About Me :
 
 ### I am studying Machine Learning and Web development
