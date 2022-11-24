@@ -3,7 +3,7 @@
 </div>
 
 ## My name is Vadim
-### :woman_technologist: About Me :
+### 🧑‍💻: About Me :
 
 ### I am studying Machine Learning and Web development
 ### My Tech Stack
