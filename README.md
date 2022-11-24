@@ -13,4 +13,4 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saantej&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-## [![Telegram](https://img.shields.io/badge/-Telegram-42AAFF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/santejka)
+### [![Telegram](https://img.shields.io/badge/-Telegram-42AAFF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/santejka)
