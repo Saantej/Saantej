@@ -8,3 +8,5 @@
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saantej)](https://github.com/anuraghazra/github-readme-stats)
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/santejka)
