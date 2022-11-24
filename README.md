@@ -9,4 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saantej)](https://github.com/anuraghazra/github-readme-stats)
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=42AAFF)](https://t.me/santejka)
+[![Telegram](https://img.shields.io/badge/-Telegram-42AAFF?style=for-the-badge&logo=telegram&logoColor=42AAFF)](https://t.me/santejka)
