@@ -4,8 +4,9 @@
 
 ##                                               My name is Vadim
 ###  About Me :
+![free-icon-ai-8593518](https://user-images.githubusercontent.com/94299118/204011476-7dcee456-b3bc-466b-a9d4-293074c7c196.png)
 
-- Explore Machine learning <img src= "[[[https://cdn-icons-png.flaticon.com/128/900/900961.png](https://w7.pngwing.com/pngs/938/824/png-transparent-artificial-intelligence-machine-learning-autonomous-car-computer-skull-miscellaneous-computer-science-shoe.png](https://w7.pngwing.com/pngs/938/824/png-transparent-artificial-intelligence-machine-learning-autonomous-car-computer-skull-miscellaneous-computer-science-shoe-thumbnail.png)](https://cdn-icons-png.flaticon.com/512/8593/8593518.png))" width = "20" height = "20" />
+- Explore Machine learning <img src= "![free-icon-ai-8593518](https://user-images.githubusercontent.com/94299118/204011476-7dcee456-b3bc-466b-a9d4-293074c7c196.png)" width = "20" height = "20" />
 - I am studying at TSPK(Togliatti)
 ###   My Tech Stack
 <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jupyter Notebook-white?style=for-the-badge&logo=Jupyter&logoColor=orange"/> <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
