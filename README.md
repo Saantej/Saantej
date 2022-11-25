@@ -4,7 +4,6 @@
 
 ##                                               My name is Vadim
 ###  About Me :
-![free-icon-ai-8593518](https://user-images.githubusercontent.com/94299118/204011476-7dcee456-b3bc-466b-a9d4-293074c7c196.png)
 
 - Explore Machine learning <img src= "![free-icon-ai-8593518](https://user-images.githubusercontent.com/94299118/204011476-7dcee456-b3bc-466b-a9d4-293074c7c196.png)" width = "20" height = "20" />
 - I am studying at TSPK(Togliatti)
