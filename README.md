@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://media1.giphy.com/media/JLYQnbND9gkYU/giphy.gif?cid=ecf05e478l259hbmn7qbzhqwatwv1qvbfav8rjx3qz39qucq&rid=giphy.gif&ct=g)" width="500" height ="400"/>
+  <img src="https://media1.giphy.com/media/JLYQnbND9gkYU/giphy.gif?cid=ecf05e478l259hbmn7qbzhqwatwv1qvbfav8rjx3qz39qucq&rid=giphy.gif&ct=g" width="500" height ="400"/>
 </div>
 
 ##                                               My name is Vadim
