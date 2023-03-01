@@ -9,7 +9,7 @@
 - I am studying at TSPK(Togliatti)
 ###   My Tech Stack
 <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jupyter Notebook-white?style=for-the-badge&logo=Jupyter&logoColor=orange"/> <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=Django&logoColor=green"/>
+ <img src="https://img.shields.io/badge/Django-#013220?style=for-the-badge&logo=Django&logoColor=white"/>
 
 ### My Stats :
 
