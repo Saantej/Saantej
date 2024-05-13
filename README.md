@@ -8,7 +8,7 @@
 - Explore Machine learning and Backend 🧠
 - I am studying at TSPK(Togliatti)
 ###   My Tech Stack
-<img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/Django-013220?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter Notebook-white?style=for-the-badge&logo=rust&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/Django-013220?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter Notebook-white?style=for-the-badge&logo=rust&logoColor=red"/>
 ### My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saantej&show_icons=true&theme=dark)
