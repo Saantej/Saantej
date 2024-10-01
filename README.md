@@ -5,8 +5,7 @@
 ##                                               My name is Vadim
 ###  About Me :
 
-- Explore Machine learning and Backend 🧠
-- I am studying at TSPK(Togliatti)
+- Explore Backend 🧠
 ###   My Tech Stack
 <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/Django-013220?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=red"/><img src="https://img.shields.io/badge/Actix-white?style=for-the-badge&logo=actix&logoColor=black"/>
 ### My Stats :
